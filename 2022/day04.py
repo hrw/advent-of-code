@@ -18,7 +18,6 @@ for linia in dane_dnia:
     ):
         wynik1 += 1
         wynik2 += 1
-        continue
 
     # styk na jednym
     elif (
